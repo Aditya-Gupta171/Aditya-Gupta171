@@ -2,7 +2,6 @@
 <h3 align="center">"Crafting captivating web experiences 🚀 | Exploring the realms of Machine Learning 🧠 | Eager to master the art of Dockerization 🐳 | Transforming code into digital poetry 💻✨ #WebArtisan #MLAdventurer #DockerEnthusiast"</h3>
 <a href="https://github.com/durgeshrai633/readme-typing-svg"><img
         src="https://readme-typing-svg.herokuapp.com?lines=MERN+STACK;A+Enthusiastic+coder"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=Mahesh-jangid.Mahesh-jangid)
  <img align="center" alt="GIF" clear="both" src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="100%" height="auto" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
