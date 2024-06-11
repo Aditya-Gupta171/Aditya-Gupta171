@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **M.E.R.N**
+- 💬 Ask me about **M.E.R.N Stack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
