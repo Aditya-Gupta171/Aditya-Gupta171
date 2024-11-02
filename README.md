@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
-<h3 align="center">"Crafting captivating web experiences 🚀 | Exploring the realms of Machine Learning 🧠 | Eager to master the art of Dockerization 🐳 | Transforming code into digital poetry 💻✨ #WebArtisan #MLAdventurer #DockerEnthusiast"</h3>
-
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **Python**
