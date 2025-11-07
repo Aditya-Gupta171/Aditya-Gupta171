@@ -18,7 +18,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I am **Aditya Gupta**, a passionate backend developer and AI enthusiast currently pursuing my Bachelor of Technology in **Computer Science Engineering (CSE)** at **KLU Vijayawada**.  
-💻 &nbsp;I specialize in **Python** development, with expertise in **Django**, **Flask**, **REST APIs**, and the **MERN stack**.  
+💻 &nbsp;I specialize in **Python** development, with expertise in  **Flask**,**FastApi**, **REST APIs**, and the **MERN stack**.  
 🎓 &nbsp;I have a keen interest in **backend systems**, and **microservices architecture**, aiming to create scalable and efficient software.  
 ⚙️ &nbsp;I enjoy solving problems on **LeetCode** and **CodeChef** and have a strong passion for clean, maintainable code.  
 📈 &nbsp;I'm currently exploring **microservies architecture** and building an scalable **projects**.  
