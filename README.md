@@ -17,7 +17,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am **Aditya Gupta**, a passionate backend developer and AI enthusiast currently pursuing my Bachelor of Technology in **Computer Science Engineering (CSE)** at **KLU Vijayawada**.  
+💡 &nbsp;I am **Aditya Gupta**, a passionate  AI/ML enthusiast LLM Engineer.  
 💻 &nbsp;I specialize in **Python** development, with expertise in  **Flask**,**FastApi**, **REST APIs**, and the **MERN stack**.  
 🎓 &nbsp;I have a keen interest in **backend systems**, and **AIML & DATA**, aiming to create scalable and efficient software.  
 ⚙️ &nbsp;I enjoy solving problems on **LeetCode** and **CodeChef** and have a strong passion for clean, maintainable code.  
